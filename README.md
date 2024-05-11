@@ -16,7 +16,7 @@ Show Titles?
 8. How many topics were present and what were the possibilities of each word contributing to each
 topic?
 
- ##**Column Descriptions**
+ ## **Column Descriptions**
 ID: A unique identifier for each movie within the data set. 
 Title: The full title of the movie as it appears on the streaming platforms. 
 Year: The release year of the movie, indicating when the movie was first made available to the public. 
