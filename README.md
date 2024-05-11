@@ -35,5 +35,5 @@ current snapshot of movies across major streaming platforms. There are columns f
 platforms, which can be included in the analysis as needed. Some entries may have missing values, especially
 in age ratings, which could be due to various factors such as the movie being unrated or newly released.
 
-[title] (https://www.kaggle.com/datasets/sanyacodes/movies-dataset-netflix-prime-video-disney)
+[Movies Dataset](https://www.kaggle.com/datasets/sanyacodes/movies-dataset-netflix-prime-video-disney)
 
